@@ -1,0 +1,21 @@
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: -400px;
+}
+h3 {
+    margin-bottom: -30px;
+    margin-left: -100px;
+    color: #312F2F;
+}
+
+a:link {
+    margin-bottom: -50px;
+    margin-left: 25px;
+    color: #EF626C;
+}
+
+body {
+    background-color: #D8D5DB;
+}
