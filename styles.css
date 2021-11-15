@@ -19,3 +19,10 @@ a:link {
 body {
     background-color: #D8D5DB;
 }
+
+img {
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+    margin-top: 70px;
+}
